@@ -1,0 +1,1 @@
+vk_pass = "yasuoMAIN1337"
